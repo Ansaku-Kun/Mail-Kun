@@ -1,5 +1,5 @@
 # Mail-Kun
-Email Sementara 
+Email Sementara adalah layanan yang memungkinkan untuk menerima email di alamat sementara yang hilang sendiri setelah waktu tertentu berlalu
 
 # Cara Instal
 ### Buka Termux
