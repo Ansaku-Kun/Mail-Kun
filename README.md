@@ -10,5 +10,5 @@ pkg install git
 python3 -m pip install requests
 git clone https://github.com/Ansaku-Kun/Mail-Kun
 cd Mail-Kun
-python main.py
+python run.py
 ```
